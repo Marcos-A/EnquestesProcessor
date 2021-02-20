@@ -1,0 +1,156 @@
+{
+    "AF1": {
+        "cicle": "AF",
+        "curs": "1r curs",
+        "departament": "Administració i Gestió",
+        "grau": "Superior",
+        "nom": "Administració i Finances"
+    },
+    "AF2": {
+        "cicle": "AF",
+        "curs": "2n curs",
+        "departament": "Administració i Gestió",
+        "grau": "Superior",
+        "nom": "Administració i Finances"
+    },
+    "ASIX1": {
+        "cicle": "ASIX",
+        "curs": "1r curs",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "ASIX1A": {
+        "cicle": "ASIX",
+        "curs": "1r curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "ASIX1B": {
+        "cicle": "ASIX",
+        "curs": "1r curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "ASIX2": {
+        "cicle": "ASIX",
+        "curs": "2n curs",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "ASIX2A": {
+        "cicle": "ASIX",
+        "curs": "2n curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "ASIX2B": {
+        "cicle": "ASIX",
+        "curs": "2n curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Administració de Sistemes Informàtics en Xarxa"
+    },
+    "DAM1": {
+        "cicle": "DAM",
+        "curs": "1r curs",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "DAM1A": {
+        "cicle": "DAM",
+        "curs": "1r curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "DAM1B": {
+        "cicle": "DAM",
+        "curs": "1r curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "DAM2": {
+        "cicle": "DAM",
+        "curs": "2n curs",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "DAM2A": {
+        "cicle": "DAM",
+        "curs": "2n curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "DAM2B": {
+        "cicle": "DAM",
+        "curs": "2n curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Superior",
+        "nom": "Desenvolupament d'Aplicacions Multiplataforma"
+    },
+    "GA1": {
+        "cicle": "GA",
+        "curs": "1r curs",
+        "departament": "Administració i Gestió",
+        "grau": "Mitjà",
+        "nom": "Gestió Administrativa"
+    },
+    "GA2": {
+        "cicle": "GA",
+        "curs": "2n curs",
+        "departament": "Administració i Gestió",
+        "grau": "Mitjà",
+        "nom": "Gestió Administrativa"
+    },
+    "SMX1A": {
+        "cicle": "SMX",
+        "curs": "1r curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    },
+    "SMX1B": {
+        "cicle": "SMX",
+        "curs": "1r curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    },
+    "SMX1C": {
+        "cicle": "SMX",
+        "curs": "1r curs, grup C",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    },
+    "SMX2A": {
+        "cicle": "SMX",
+        "curs": "2n curs, grup A",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    },
+    "SMX2B": {
+        "cicle": "SMX",
+        "curs": "2n curs, grup B",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    },
+    "SMX2C": {
+        "cicle": "SMX",
+        "curs": "2n curs, grup C",
+        "departament": "Informàtica",
+        "grau": "Mitjà",
+        "nom": "Sistemes Microinformàtics i Xarxes"
+    }
+}

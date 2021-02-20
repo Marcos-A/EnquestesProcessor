@@ -1,0 +1,85 @@
+html, body {
+  width: 100%;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font: normal 10px;
+}
+ 
+h2 {
+  color: #AA2313;
+  font-size: 18px;
+}
+ 
+h3 {
+  color: #AA2313;
+  font-size: 15px;
+}
+ 
+table, th, td {
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+ 
+th, td {
+  padding: 15px;
+}
+ 
+th {
+  color: white;
+  background-color: black;
+}
+ 
+td {
+  display: table-cell;
+  vertical-align: inherit;
+  min-width:78px;
+}
+ 
+.container {
+  max-width: 100%;
+  padding-top: 5px;
+}
+ 
+.header {
+  padding: 3px;
+  text-align: center;
+  background: #AA2313;
+  color: whitesmoke;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+ 
+.info_text {
+  font-size:1.1em;
+}
+
+.info_text_reduced_for_list {
+  font-size:0.9em;
+  text-align: justify;
+}
+ 
+.info_text_over_table {
+  font-size:1.1em;
+  margin-bottom: 2px;
+}
+ 
+.total_answers {
+  text-align: right;
+  margin-top: 0px;
+}
+ 
+.comments_block {
+  white-space: pre-wrap;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 2;
+  margin-left: 5%;
+  background-color: lightgrey;
+}
+ 
+.right_side_annotation {
+  text-align: right;
+}

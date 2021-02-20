@@ -1,0 +1,43 @@
+{% extends "template_layout_group_page.html" %}
+{% block header %}{{ group }}{% endblock %}
+{% block content %}
+  <p class="info_text"><b>Cicle:</b> {{ cicle }} (Grau {{ grau }})</p>
+  <p class="info_text"><b>Curs:</b> {{ course }} </p>
+  <p class="info_text"><b>Família:</b> {{ department }} </p>
+  <p class="info_text"><b>Ítems:</b>
+  <ol class="info_text_reduced_for_list">
+    <li>Creus que durant la part presencial del curs (1r i 2n trimestre) les relacions entre les persones del centre són bones?</li>
+    <li>T'identifiques amb el centre? (T'agrada, el sents teu...)</li>
+    <li>S'han resolt els conflictes de convivència correctament durant la part presencial del curs (1r i 2n trimestre)?</li>
+    <li>Han funcionat bé els serveis de borsa de treball i biblioteca durant la part presencial del curs (1r i 2n trimestre)?</li>
+    <li>T'han agradat les activitats extraescolars que es fan dins i fora del centre durant la part presencial del curs (1r i 2n trimestre)? (Xerrades, competicions esportives, sortides...)</li>
+    <li>Has estat globalment satisfet de la teva estada al centre durant la part presencial del curs (1r i 2n trimestre)?</li>
+  </ol>
+  </p>
+  <p class="info_text_over_table"><b>Valoració:</b></b>
+  <table>
+  <TR>
+    <TH>ÍTEM 1</TH>
+    <TH>ÍTEM 2</TH>
+    <TH>ÍTEM 3</TH>
+    <TH>ÍTEM 4</TH>
+    <TH>ÍTEM 5</TH>
+    <TH>ÍTEM 6</TH>
+  </TR>
+  <TR>
+    <TD>{{ items['ÍTEM 1'] }}</TD>
+    <TD>{{ items['ÍTEM 2'] }}</TD>
+    <TD>{{ items['ÍTEM 3'] }}</TD>
+    <TD>{{ items['ÍTEM 4'] }}</TD>
+    <TD>{{ items['ÍTEM 5'] }}</TD>
+    <TD>{{ items['ÍTEM 6'] }}</TD>
+  </TR>
+  </table>
+  <div style="line-height:25%;"><br></div>
+  <p class="total_answers">núm. respostes: {{ items['NOMBRE RESPOSTES'] }}</p>
+  <br>
+  <span class="info_text"><b>Comentaris dels estudiants:</b></span>
+  <div style="line-height:50%;"><br></div>
+  <div class="comments_block">{{ items['COMENTARIS'] }}</div>
+  <p class="right_side_annotation"><i>(sic)</i></p>
+{% endblock %}

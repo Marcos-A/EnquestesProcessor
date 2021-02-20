@@ -1,0 +1,76 @@
+# OPTIONS
+# Log
+# 0 = no log
+# 1 = simple
+# 2 = detailed  
+LOG_LEVEL: 2
+# Keep Temp Files
+# 0 = elimina
+# 1 = conserva
+# 2 = consulta a usuari
+OPTION_TMP_FILES: 1
+OPTION_TMP_RECORDS: 1
+# Reports Generation
+# 0 = no
+# 1 = sí
+# 2 = consulta a usuari 
+OPTION_REPORTS: 1
+# 0 = no
+# 1 = sí
+OPTION_EXPORT_REPORT_CENTRE_TO_PDF: 1
+# Ignore Duplicated Responses Or Overwrite Past Responses
+# 0 = conserva primera
+# 1 = conserva nova
+# 2 = consulta a usuari    
+OPTION_DUPLICATED_ANSWERS: 1
+# Threshold To Merge Results With 1st Course For 2nd Course Students Repeating The Subject
+THRESHOLD_MERGE_GROUP_MP_ANSWERS: 4
+
+# PROGRAM EXECUTION FILES AND FOLDERS
+# Folders
+INPUT_FOLDER: input
+OUTPUT_FOLDER: output
+TEMP_FOLDER: temp
+TESTING_FOLDER: testing
+UTILITIES_FOLDER: utilities
+# Input Folders
+SOURCE_FILE_STUDENTS_WITH_MP: alumnes-mp.csv
+SOURCE_FILE_STUDENT_ANSWERS: respostes.csv
+# Input Files
+GROUPS_INFO_FILE: groups_data.json
+REQUIREMENTS_FILE: requirements.txt
+SETTINGS_FILE: settings.yaml
+TEST_SETTINGS_FILE: testing_settings.yaml
+# Output Folders
+# Temp Files
+TMP_ANONYMIZED_STUDENT_ANSWERS: respostes_anonimitzades.csv
+TMP_FILE_ANSWERS: resultats_tmp.csv
+RECORD_FILE_ERRORS: errades_rec.csv
+RECORD_FILE_ANSWERS: resultats_rec.csv
+
+# RESULT FILES
+RESULT_FILE_ANSWERS: resultats_respostes.csv
+RESULT_FILE_ERRORS: resultats_errades.csv
+RESULT_FILE_STATISTICS: estadistica_respostes.csv
+RESULT_FILE_STUDENTS_WITH_AVALUATED_MP: resultats_alumnes-respostes.csv
+
+# REPORT FILES
+REPORT_FILE_ADM: Informe_Dept_Admin.csv
+REPORT_FILE_CENTRE: Informe_Centre.csv
+REPORT_PDF_FILE_CENTRE: Informe_Centre.pdf
+REPORT_FILE_INF: Informe_Dept_Inform.csv
+
+# UTILITIES
+# Folders
+CSV_TO_PDF_EXPORTER_FOLDER: utilities/csvToPdfExporter
+TEMP_HTML_FILES_FOLDER: utilities/csvToPdfExporter/temp_output_html_files
+TEMP_PDF_FILES_FOLDER: utilities/csvToPdfExporter/temp_output_pdf_files
+TEMPLATES_FOLDER: utilities/csvToPdfExporter/templates
+# Files
+TEMPLATE_COVER_PAGE: template_cover_page.html
+TEMPLATE_GROUP_PAGE: template_group_page.html
+RESULT_COVER_PAGE: cover.html
+RESULT_GROUP_PAGE_ROOT_FILENAME: report_
+# Apps
+CSV_TO_PDF_EXPORTER_APP: pdfCentreReportGenerator.py
+TERMINAL_APP: terminal.py

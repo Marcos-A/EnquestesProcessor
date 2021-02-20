@@ -1,0 +1,120 @@
+DEPARTAMENT,GRUP,OBJECTE,ÍTEM 1,ÍTEM 2,ÍTEM 3,ÍTEM 4,ÍTEM 5,ÍTEM 6,NOMBRE RESPOSTES
+ADMINISTRACIÓ,AF1,El centre,"7,73","7,00","5,67","5,33","5,13","8,00",15
+ADMINISTRACIÓ,AF1,MP01 - Comunicació i atenció al client,"8,95","8,76","8,81","8,57",,,21
+ADMINISTRACIÓ,AF1,MP03 - Procés integral de l'activitat comercial,"6,91","7,59","7,50","6,68",,,22
+ADMINISTRACIÓ,AF1,MP05 - Ofimàtica i procés de la informació,"8,32","8,14","8,45","8,27",,,22
+ADMINISTRACIÓ,AF1,MP06 - Anglès,"5,24","6,62","5,86","6,00",,,21
+ADMINISTRACIÓ,AF1,MP07 - Gestió de recursos humans,"8,95","8,82","8,82","8,64",,,22
+ADMINISTRACIÓ,AF1,MP10 - Gestió logística i comercial,"8,36","8,59","7,73","8,14",,,22
+ADMINISTRACIÓ,AF1,MP12 - Formació i orientació laboral,"6,54","6,69","6,69","6,38",,,13
+ADMINISTRACIÓ,AF1,Tutoria 1r curs,"8,12","9,25","9,06",,,,16
+ADMINISTRACIÓ,AF2,El centre,"8,18","7,27","7,64","6,82","7,64","7,64",11
+ADMINISTRACIÓ,AF2,MP02 - Gestió de la documentació jurídica i empresarial,"8,80","8,47","8,80","8,93",,,15
+ADMINISTRACIÓ,AF2,MP04 - Recursos humans i responsabilitat social corporativa,"6,92","7,31","7,08","6,77",,,13
+ADMINISTRACIÓ,AF2,MP06 - Anglès,"4,62","4,31","3,85","3,38",,,13
+ADMINISTRACIÓ,AF2,MP08 - Gestió financera,"8,54","8,54","8,77","8,54",,,13
+ADMINISTRACIÓ,AF2,MP09 -  Comptabilitat i fiscalitat,"8,00","7,86","8,14","8,00",,,14
+ADMINISTRACIÓ,AF2,MP11 - Simulació empresarial,"7,09","7,55","7,18","7,45",,,11
+ADMINISTRACIÓ,AF2,MP13 - Projecte d'administració i finances,"7,55","7,36","7,27","7,45",,,11
+ADMINISTRACIÓ,AF2,Tutoria 2n curs,"7,82","7,27","8,55","8,64",,,11
+INFORMÀTICA,ASIX2,El centre,"8,43","7,57","8,14","7,00","7,43","8,29",7
+INFORMÀTICA,ASIX2,MP01 - Implantació de sistemes operatius,"8,00","8,00","10,00","10,00",,,1
+INFORMÀTICA,ASIX2,MP02 - Gestió de bases de dades,"8,50","8,50","9,00","9,00",,,2
+INFORMÀTICA,ASIX2,MP05 - Fonaments de maquinari,"7,00","7,86","7,86","7,00",,,7
+INFORMÀTICA,ASIX2,MP06 - Administració de sistemes operatius,"8,57","8,86","8,71","8,57",,,7
+INFORMÀTICA,ASIX2,MP07 - Planificació i administració de xarxes,"8,57","8,86","8,29","8,71",,,7
+INFORMÀTICA,ASIX2,MP08 - Serveis de xarxa i internet,"5,14","6,57","6,14","5,14",,,7
+INFORMÀTICA,ASIX2,MP09 -  Implantació d'aplicacions web,"6,57","7,14","6,43","6,29",,,7
+INFORMÀTICA,ASIX2,MP10 - Administració de sistemes gestors de bases de dades,"8,67","9,00","8,17","8,50",,,6
+INFORMÀTICA,ASIX2,MP11 - Seguretat i alta disponibilitat,"8,00","8,29","8,14","8,29",,,7
+INFORMÀTICA,ASIX2,MP14 - Projecte d'administració de sistemes informàtics en xarxa,"7,20","7,20","6,60","7,00",,,5
+INFORMÀTICA,ASIX2,Tutoria 2n curs,"8,33","8,50","7,50","6,00",,,6
+INFORMÀTICA,DAM1A,El centre,"8,40","6,70","8,30","6,10","5,80","7,50",10
+INFORMÀTICA,DAM1A,MP01 - Sistemes informàtics,"6,53","7,00","7,20","6,87",,,15
+INFORMÀTICA,DAM1A,MP02 - Bases de dades,"6,73","7,53","7,47","6,73",,,15
+INFORMÀTICA,DAM1A,MP03 - Programació,"6,07","7,21","7,64","6,07",,,14
+INFORMÀTICA,DAM1A,MP04 - Llenguatges de marques i sistemes de gestió d'informació,"9,21","9,00","8,79","9,07",,,14
+INFORMÀTICA,DAM1A,MP11 - Formació i orientació laboral,"7,57","8,00","6,86","7,71",,,7
+INFORMÀTICA,DAM1A,MP12 - Empresa i iniciativa emprenedora,"7,29","7,71","6,14","7,71",,,7
+INFORMÀTICA,DAM1A,Tutoria 1r curs,"7,64","7,73","6,91",,,,11
+INFORMÀTICA,DAM1B,El centre,"7,86","6,71","7,57","6,43","7,00","7,86",7
+INFORMÀTICA,DAM1B,MP01 - Sistemes informàtics,"8,16","8,16","7,74","7,79",,,19
+INFORMÀTICA,DAM1B,MP02 - Bases de dades,"7,58","7,58","8,00","8,05",,,19
+INFORMÀTICA,DAM1B,MP03 - Programació,"6,37","7,79","7,63","7,11",,,19
+INFORMÀTICA,DAM1B,MP04 - Llenguatges de marques i sistemes de gestió d'informació,"7,89","7,95","7,63","7,95",,,19
+INFORMÀTICA,DAM1B,Tutoria 1r curs,"8,93","8,93","9,20",,,,15
+INFORMÀTICA,DAM2A,El centre,"8,33","7,50","7,67","6,61","6,61","8,33",18
+INFORMÀTICA,DAM2A,MP03 - Programació,"7,48","8,48","8,33","8,24",,,21
+INFORMÀTICA,DAM2A,MP05 - Entorns de desenvolupament,"9,00","8,55","7,82","8,86",,,22
+INFORMÀTICA,DAM2A,MP06 - Accés a dades,"7,90","8,19","8,57","7,90",,,21
+INFORMÀTICA,DAM2A,MP07 - Desenvolupament d'interfícies,"4,24","4,71","6,10","4,43",,,21
+INFORMÀTICA,DAM2A,MP08 - Programació multimèdia i dispositius mòbils,"8,86","9,14","9,05","8,73",,,22
+INFORMÀTICA,DAM2A,MP09 -  Programació de serveis i processos,"7,57","8,14","7,86","7,76",,,21
+INFORMÀTICA,DAM2A,MP10 - Sistemes de gestió empresarial,"8,82","8,41","7,68","8,59",,,22
+INFORMÀTICA,DAM2A,MP13 - Projecte de desenvolupament d'aplicacions multiplataforma,"6,89","6,78","6,94","6,56",,,18
+INFORMÀTICA,DAM2A,Tutoria 2n curs,"7,53","8,06","7,94","7,82",,,17
+ADMINISTRACIÓ,GA1,El centre,"6,58","6,00","5,58","5,08","5,50","6,92",12
+ADMINISTRACIÓ,GA1,MP01 - Comunicació empresarial i atenció al client,"6,57","6,43","6,30","6,87",,,23
+ADMINISTRACIÓ,GA1,MP02 - Operacions administratives de compravenda,"6,56","7,00","8,06","7,61",,,18
+ADMINISTRACIÓ,GA1,MP03 - Operacions administratives de recursos humans,"7,50","7,55","8,20","8,10",,,20
+ADMINISTRACIÓ,GA1,MP05 - Tècnica comptable,"6,53","6,32","7,16","7,05",,,19
+ADMINISTRACIÓ,GA1,MP07 - Tractament informàtic de la informació,"6,16","6,11","7,16","6,79",,,19
+ADMINISTRACIÓ,GA1,MP09 -  Anglès,"4,89","5,28","5,83","6,06",,,18
+ADMINISTRACIÓ,GA1,MP10 - Empresa i administració,"7,89","7,89","8,00","7,61",,,18
+ADMINISTRACIÓ,GA1,MP12 - Formació i orientació laboral,"6,45","7,35","6,75","6,55",,,20
+ADMINISTRACIÓ,GA1,Tutoria 1r curs,"8,83","8,67","8,00",,,,6
+ADMINISTRACIÓ,GA2,El centre,"6,40","6,60","6,20","4,80","5,20","6,80",5
+ADMINISTRACIÓ,GA2,MP04 - Operacions auxiliars de gestió de la tresoreria,"6,56","6,22","7,22","6,44",,,9
+ADMINISTRACIÓ,GA2,MP06 - Tractament de la documentació comptable,"6,43","5,57","7,86","7,29",,,7
+ADMINISTRACIÓ,GA2,MP07 - Tractament informàtic de la informació,"6,86","6,14","7,71","7,29",,,7
+ADMINISTRACIÓ,GA2,MP08 - Operacions administratives de suport,"7,00","6,86","6,14","6,43",,,7
+ADMINISTRACIÓ,GA2,MP11 - Empresa a l'aula,"9,12","9,00","9,50","8,88",,,8
+ADMINISTRACIÓ,GA2,Tutoria 2n curs,"5,33","6,33","6,17","5,33",,,6
+INFORMÀTICA,SMX1A,El centre,"6,30","5,00","6,00","6,10","3,10","6,70",10
+INFORMÀTICA,SMX1A,MP01 - Muntatge i manteniment d'equips,"6,25","7,42","8,58","6,75",,,12
+INFORMÀTICA,SMX1A,MP02 - Sistemes operatius monolloc,"2,92","5,67","3,50","3,67",,,12
+INFORMÀTICA,SMX1A,MP03 - Aplicacions ofimàtiques,"7,08","6,50","6,92","7,25",,,12
+INFORMÀTICA,SMX1A,MP05 - Xarxes locals,"7,23","7,08","7,54","7,69",,,13
+INFORMÀTICA,SMX1A,MP09 -  Formació i orientació laboral,"7,75","8,08","7,75","7,58",,,12
+INFORMÀTICA,SMX1A,MP11 - Anglès tècnic,"6,73","7,64","7,82","6,36",,,11
+INFORMÀTICA,SMX1A,Tutoria 1r curs,"3,10","2,80","1,70",,,,10
+INFORMÀTICA,SMX1B,El centre,"6,79","6,07","5,14","4,79","1,57","6,00",14
+INFORMÀTICA,SMX1B,MP01 - Muntatge i manteniment d'equips,"7,93","7,50","9,14","7,86",,,14
+INFORMÀTICA,SMX1B,MP02 - Sistemes operatius monolloc,"6,14","6,07","6,57","6,07",,,14
+INFORMÀTICA,SMX1B,MP03 - Aplicacions ofimàtiques,"7,20","5,13","5,87","7,13",,,15
+INFORMÀTICA,SMX1B,MP05 - Xarxes locals,"6,67","6,53","7,27","6,53",,,15
+INFORMÀTICA,SMX1B,MP09 -  Formació i orientació laboral,"6,00","5,40","5,87","5,13",,,15
+INFORMÀTICA,SMX1B,MP11 - Anglès tècnic,"5,69","7,31","7,08","6,23",,,13
+INFORMÀTICA,SMX1B,Tutoria 1r curs,"4,15","5,23","2,85",,,,13
+INFORMÀTICA,SMX1C,El centre,"8,60","7,10","8,10","7,40","3,20","8,10",10
+INFORMÀTICA,SMX1C,MP01 - Muntatge i manteniment d'equips,"5,82","8,09","7,64","7,82",,,11
+INFORMÀTICA,SMX1C,MP02 - Sistemes operatius monolloc,"7,18","7,09","7,27","7,00",,,11
+INFORMÀTICA,SMX1C,MP03 - Aplicacions ofimàtiques,"7,45","8,09","7,45","8,27",,,11
+INFORMÀTICA,SMX1C,MP05 - Xarxes locals,"6,50","7,50","7,40","7,20",,,10
+INFORMÀTICA,SMX1C,MP09 -  Formació i orientació laboral,"7,30","7,30","7,80","6,90",,,10
+INFORMÀTICA,SMX1C,MP11 - Anglès tècnic,"5,45","6,91","7,18","6,00",,,11
+INFORMÀTICA,SMX1C,Tutoria 1r curs,"7,00","7,29","6,71",,,,7
+INFORMÀTICA,SMX2A,El centre,"8,33","8,00","8,33","8,33","8,33","8,33",3
+INFORMÀTICA,SMX2A,MP04 - Sistemes operatius en xarxa,"3,88","3,62","5,38","4,00",,,8
+INFORMÀTICA,SMX2A,MP06 - Seguretat informàtica,"7,67","7,44","7,44","7,78",,,9
+INFORMÀTICA,SMX2A,MP07 - Serveis de xarxa,"9,75","9,00","8,50","9,25",,,8
+INFORMÀTICA,SMX2A,MP08 - Aplicacions web,"8,33","8,33","8,44","8,44",,,9
+INFORMÀTICA,SMX2A,MP10 - Empresa i iniciativa emprenedora,"7,00","7,44","7,33","7,56",,,9
+INFORMÀTICA,SMX2A,MP12 - Síntesi,"8,00","8,20","8,40","8,20",,,5
+INFORMÀTICA,SMX2A,Tutoria 2n curs,"5,25","4,50","4,50","4,75",,,4
+INFORMÀTICA,SMX2B,El centre,"7,40","7,20","6,80","5,20","5,60","7,60",5
+INFORMÀTICA,SMX2B,MP04 - Sistemes operatius en xarxa,"3,67","4,50","4,00","4,33",,,6
+INFORMÀTICA,SMX2B,MP06 - Seguretat informàtica,"7,17","6,50","6,83","6,83",,,6
+INFORMÀTICA,SMX2B,MP07 - Serveis de xarxa,"8,17","7,00","7,50","8,00",,,6
+INFORMÀTICA,SMX2B,MP08 - Aplicacions web,"9,14","9,29","9,00","9,43",,,7
+INFORMÀTICA,SMX2B,MP10 - Empresa i iniciativa emprenedora,"9,25","9,50","9,50","9,75",,,4
+INFORMÀTICA,SMX2B,MP12 - Síntesi,"2,50","3,00","3,25","2,00",,,4
+INFORMÀTICA,SMX2B,Tutoria 2n curs,"4,40","4,80","4,00","4,80",,,5
+INFORMÀTICA,SMX2C,El centre,"8,50","7,83","7,00","7,50","6,33","7,67",6
+INFORMÀTICA,SMX2C,MP04 - Sistemes operatius en xarxa,"8,43","8,64","8,86","9,00",,,14
+INFORMÀTICA,SMX2C,MP06 - Seguretat informàtica,"5,64","6,14","5,57","5,14",,,14
+INFORMÀTICA,SMX2C,MP07 - Serveis de xarxa,"8,36","8,14","8,50","8,50",,,14
+INFORMÀTICA,SMX2C,MP08 - Aplicacions web,"9,08","9,25","9,25","9,25",,,12
+INFORMÀTICA,SMX2C,MP10 - Empresa i iniciativa emprenedora,"7,50","8,08","7,33","7,50",,,12
+INFORMÀTICA,SMX2C,MP12 - Síntesi,"7,54","7,31","7,15","7,08",,,13
+INFORMÀTICA,SMX2C,Tutoria 2n curs,"8,00","8,17","8,42","8,33",,,12

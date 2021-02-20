@@ -1,0 +1,12 @@
+cairocffi==1.0.1
+certifi==2019.11.28
+Jinja2==2.10.3
+Pillow
+PyPDF2==1.26.0
+python-dateutil==2.8.1
+PyYAML==5.3
+setuptools >= 39.2.0
+six==1.12.0
+testresources
+typed-ast==1.4.0
+WeasyPrint==51
